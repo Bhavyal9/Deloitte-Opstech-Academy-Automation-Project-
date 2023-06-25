@@ -1,6 +1,6 @@
 # Deloitte-Opstech-Academy-Automation-Project
 
-## Project Name: Financial Times Share Price Automation
+## StockNap: Stock Price Automation
 
 This project was developed as the final presentation for the Deloitte Investment Banking Opstech Academy. The challenge was to automate the process of inputting share prices from the web into a spreadsheet for daily communication within the organization. To solve this challenge, we used web technologies such as HTML, CSS, and JavaScript to facilitate user interaction and python to fetch the relevant data, process it and finally to convert it into CSV file. The solution leverages the following steps:
 
