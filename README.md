@@ -1,8 +1,9 @@
 # Deloitte-Opstech-Academy-Automation-Project
 
 ## StockNap: Stock Price Automation
-
+<div align="center">
 <img width="494" alt="StockSnap" src="https://github.com/Bhavyal9/Deloitte-Opstech-Academy-Automation-Project-/assets/77969476/2e595446-db50-4aa7-b0b4-eb3479cbeeb7">
+</div>
 
 This project was developed as the final presentation for the Deloitte Investment Banking Opstech Academy. The challenge was to automate the process of inputting share prices from the web into a spreadsheet for daily communication within the organization. To solve this challenge, we used web technologies such as HTML, CSS, and JavaScript to facilitate user interaction and python to fetch the relevant data, process it and finally to convert it into CSV file. The solution leverages the following steps:
 
